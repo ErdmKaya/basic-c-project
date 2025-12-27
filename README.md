@@ -27,4 +27,6 @@ gcc game.c -o game
 ```
 ### 3. Run the Game
 ```bash
+# If you are not inside the c-number-guessing-game directory
+cd c-number-guessing-game
 ./game
